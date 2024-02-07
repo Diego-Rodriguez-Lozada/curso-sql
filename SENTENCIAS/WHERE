@@ -1,0 +1,5 @@
+SELECT * FROM users WHERE age =15
+
+SELECT DISTINCT name from users where age =15
+
+SELECT DISTINCT age from users where age =15

@@ -1,0 +1,2 @@
+SELECT name, surname, IFNULL(age, 0) FROM users;
+

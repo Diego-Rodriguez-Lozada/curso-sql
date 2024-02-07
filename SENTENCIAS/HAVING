@@ -1,0 +1,3 @@
+SElECT * FROM users HAVING age > 19
+
+SElECT COUNT(age) FROM users HAVING COUNT(age) > 0

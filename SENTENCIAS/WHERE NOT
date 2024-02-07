@@ -1,0 +1,5 @@
+SELECT * FROM users WHERE NOT email = "sara@gmail" OR AGE =15;
+
+SELECT * FROM users WHERE NOT email = "sara@gmail" AND AGE =15;
+
+SELECT * FROM users WHERE NOT email = "sara@gmail" 

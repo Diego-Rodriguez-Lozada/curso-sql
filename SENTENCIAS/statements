@@ -1,0 +1,6 @@
+SELECT * FROM user;
+
+SELECT name FROM user;
+
+SELECT user_id, name FROM users;
+
