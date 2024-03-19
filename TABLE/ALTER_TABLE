@@ -1,0 +1,12 @@
+ALTER TABLE PERSON8
+ADD Surname VARCHAR (100) 
+
+ALTER TABLE person8
+RENAME COLUMN Surname TO descripcion
+
+ALTER TABLE person8
+MODIFY COLUMN descripcion varchar (250)
+
+ALTER TABLE person8
+DROP COLUMN descripcion 
+

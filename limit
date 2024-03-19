@@ -1,0 +1,2 @@
+SELECT * FROM users WHERE NOT email = "sara@gmail.com" OER age = 15 LIMIT;
+SELECT * FROM users LIMIT 3; 
