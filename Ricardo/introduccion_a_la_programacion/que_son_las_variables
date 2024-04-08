@@ -1,0 +1,3 @@
+las variables son valores que pueden cambiar durante un determinado periodo de tiempo 
+las caracteristicas de las variables son que solo pueden ser de un tipo de datos, su valor inicial siempre es desconocido y ocupa un lugar en memoria
+las reglas para nombres de variables son que tienen que ser representativos, debe de comenzar con letra, no puede tener espacios en blanco, puede tener guion bajo, no puede llamarse como las palabras reservadas (inicio-final)
