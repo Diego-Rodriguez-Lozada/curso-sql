@@ -1,0 +1,19 @@
+PSEUDOCODIGO
+Variables 
+Entero num
+Inicio
+    num <- 2
+     si (num>3) entonces 
+     Escribir ("El numero es mayor a 3")
+     sino
+     si(num=3) entonces
+     Escribir ("El numero es igual a 3")
+     sino
+     Escribir ("El numero es menor a 3")
+     fin si
+     fin si
+Fin
+
+*Un sí puede ir o no acompañado de un sino
+Pero un sino, siempre va acompañado de un si
+

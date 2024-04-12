@@ -1,0 +1,43 @@
+PSEUDOCODIGO
+Si (condicion) entonces
+.
+.
+.
+Fin Si
+
+Variables 
+Entero num1, num2
+Inicio
+    num1 <- 10
+    num2 <- 3
+     si (num1>num2) entonces 
+     Escribir ("Es mayor")
+     fin si
+Fin
+
+PSEUDOCODIGO
+Si (condicion) entonces
+.
+.
+.
+sino
+.
+.
+.
+Fin si
+
+Variables 
+Entero num1, num2
+Inicio
+    num1 <- 10
+    num2 <- 3
+     si (num1>num2) entonces 
+     Escribir ("Es mayor")
+    sino
+     Escribir ("El mayor es", num2)
+    Fin si
+Fin 
+
+
+
+

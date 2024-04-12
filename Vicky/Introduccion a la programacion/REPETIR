@@ -1,0 +1,11 @@
+Lo de adentro del codigo se repite hasta que se cumple la condicion
+
+Repetir
+Variales 
+Entero num<-0
+Inicio
+Repetir
+    Escribir ("Ingrese un numero")
+    Leer (num)
+Hasta que(num=7)
+Fin

@@ -1,0 +1,10 @@
+La sentencia se realiza siempre y cuendo la condicion se cumpla
+
+variables
+Entero num<-0
+Inicio
+Mientras (num<3)
+    num <-num+1
+    Escribir ("El numero es:", num)
+Fin mientras
+Fin    
