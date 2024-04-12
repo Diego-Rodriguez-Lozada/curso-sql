@@ -1,0 +1,43 @@
+¿QUE ES PROGRAMAR?
+resolver un problema, de forma automatica 
+
+¿POR QUÉ EMPEZAR A PROGRAMAR?
+para resolver un problema de fotma automatica
+
+¿QUÉ ES ALGORTITMO?
+pasos para resolver un rpoblema
+
+-Ejemplo:
+Algoritmo "llamar"
+1 busca el celular
+2 marcar el numero
+3 presionar llamar
+4 atienden la llamada
+5 habla
+6 cuelga
+
+-Diagrama de flujo:
+un algoritmo es algo finito, tiene inicio y fin 
+* Para  el inicio y fin,utilizamos un ovalo
+* Cada proceso se representa con un rectangulo 
+* Un rombo para tomar una decision 
+
+¿QUE SON LOS DATOS?
+El dato es la unidad minima de informacion
+
+Cuando se tiene varios datos entonces se tiene infotmacion
+
+*TiposDeDatos
+-Entero: numeros enteros, sin punto
+-Real: numeros decimales, con punto
+-Logico: verdadero o falso
+-caracter: letras/caracteres
+
+*VariablesConstantes
+-Entero: 35
+-Real: 2.3
+-Logico: verdadero
+-Caracter: @
+
+Variables constantes, es un valor que se mantiene. Por ejemplo el IVA
+
